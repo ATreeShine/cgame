@@ -1,3 +1,6 @@
+# Showcase
+https://www.youtube.com/watch?v=K3WzBEkcs2g
+
 a very lightweight game written in c
 
 work in progress
